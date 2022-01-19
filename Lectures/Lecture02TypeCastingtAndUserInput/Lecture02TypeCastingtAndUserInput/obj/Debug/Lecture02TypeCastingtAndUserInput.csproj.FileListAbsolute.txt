@@ -1,0 +1,7 @@
+E:\C#(C-Sharp)\Lectures\Lecture02TypeCastingtAndUserInput\Lecture02TypeCastingtAndUserInput\bin\Debug\Lecture02TypeCastingtAndUserInput.exe.config
+E:\C#(C-Sharp)\Lectures\Lecture02TypeCastingtAndUserInput\Lecture02TypeCastingtAndUserInput\bin\Debug\Lecture02TypeCastingtAndUserInput.exe
+E:\C#(C-Sharp)\Lectures\Lecture02TypeCastingtAndUserInput\Lecture02TypeCastingtAndUserInput\bin\Debug\Lecture02TypeCastingtAndUserInput.pdb
+E:\C#(C-Sharp)\Lectures\Lecture02TypeCastingtAndUserInput\Lecture02TypeCastingtAndUserInput\obj\Debug\Lecture02TypeCastingtAndUserInput.csprojAssemblyReference.cache
+E:\C#(C-Sharp)\Lectures\Lecture02TypeCastingtAndUserInput\Lecture02TypeCastingtAndUserInput\obj\Debug\Lecture02TypeCastingtAndUserInput.csproj.CoreCompileInputs.cache
+E:\C#(C-Sharp)\Lectures\Lecture02TypeCastingtAndUserInput\Lecture02TypeCastingtAndUserInput\obj\Debug\Lecture02TypeCastingtAndUserInput.exe
+E:\C#(C-Sharp)\Lectures\Lecture02TypeCastingtAndUserInput\Lecture02TypeCastingtAndUserInput\obj\Debug\Lecture02TypeCastingtAndUserInput.pdb

@@ -1,0 +1,6 @@
+E:\C#(C-Sharp)\Practices\Practice01DataTypesAndUserInput\Practice01DataTypesAndUserInput\bin\Debug\Practice01DataTypesAndUserInput.exe.config
+E:\C#(C-Sharp)\Practices\Practice01DataTypesAndUserInput\Practice01DataTypesAndUserInput\bin\Debug\Practice01DataTypesAndUserInput.exe
+E:\C#(C-Sharp)\Practices\Practice01DataTypesAndUserInput\Practice01DataTypesAndUserInput\bin\Debug\Practice01DataTypesAndUserInput.pdb
+E:\C#(C-Sharp)\Practices\Practice01DataTypesAndUserInput\Practice01DataTypesAndUserInput\obj\Debug\Practice01DataTypesAndUserInput.csproj.CoreCompileInputs.cache
+E:\C#(C-Sharp)\Practices\Practice01DataTypesAndUserInput\Practice01DataTypesAndUserInput\obj\Debug\Practice01DataTypesAndUserInput.exe
+E:\C#(C-Sharp)\Practices\Practice01DataTypesAndUserInput\Practice01DataTypesAndUserInput\obj\Debug\Practice01DataTypesAndUserInput.pdb
