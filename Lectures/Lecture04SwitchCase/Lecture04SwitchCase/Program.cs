@@ -10,7 +10,7 @@ namespace Lecture04SwitchCase
     {
         static void Main(string[] args)
         {
-                       char vowels = Convert.ToChar(Console.ReadLine());
+            char vowels = Convert.ToChar(Console.ReadLine());
             switch (vowels)
             {
                 case 'A' :
